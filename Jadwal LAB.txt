@@ -3,4 +3,6 @@ jadwal kuliah pemakaian LAB semester genap 2020/2021
 Senin Praktikum Desain Grafis 4SI-P
 Senin Praktikum Desain Grafis 4SI-M
 Selasa Praktikum Algoritma Pemrograman 2 2TI-P1
-
+Rabu PWD 4TI-P
+Rabu PWD 4SI-M
+Rabu Praktikum OOP 4TI-M
