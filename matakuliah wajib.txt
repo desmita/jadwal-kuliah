@@ -6,6 +6,8 @@ MATA KULIAH STMIK DW T.A 2020/2021
     *java
     *php
 2. Desain Grafis
+     *corel draw
+     *photoshop
 3. Basis Data
 4. Rangkaian Digital
 5. Keamanan Komputer
