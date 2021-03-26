@@ -11,3 +11,6 @@ MATA KULIAH STMIK DW T.A 2020/2021
      *photoshop
 3. Basis Data
 4. Keamanan Komputer
+5. Rangkaian Digital
+6. Sistem Penunjang Keputusan
+
